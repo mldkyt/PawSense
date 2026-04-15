@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{F5EA410B-85E6-46AB-A910-8CC5B4637742}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>CatLikeBehaviourDetected</RootNamespace>
-    <AssemblyName>CatLikeBehaviourDetected</AssemblyName>
+    <RootNamespace>PawSense</RootNamespace>
+    <AssemblyName>PawSense</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

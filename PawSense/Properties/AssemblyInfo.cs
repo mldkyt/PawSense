@@ -2,14 +2,14 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-// Obecné informace o sestavení se řídí přes následující 
+// Obecné informace o sestavení se řídí přes následující
 // sadu atributů. Změnou hodnot těchto atributů se upraví informace
 // přidružené k sestavení.
-[assembly: AssemblyTitle("CatLikeBehaviourDetected")]
+[assembly: AssemblyTitle("PawSense")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Atlas Playbook v0.4.1")]
-[assembly: AssemblyProduct("CatLikeBehaviourDetected")]
+[assembly: AssemblyProduct("PawSense")]
 [assembly: AssemblyCopyright("Copyright © Atlas Playbook v0.4.1 2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace CatLikeBehaviourDetected
+namespace PawSense
 {
     public partial class PawSense : Form
     {

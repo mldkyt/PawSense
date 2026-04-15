@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CatLikeBehaviourDetected.Properties
+namespace PawSense.Properties
 {
 
 

@@ -1,4 +1,4 @@
-# CatLikeBehaviourDetected
+# PawSense
 
 Cat-Like Behaviour Detected Window, for Windows XP and newer.
 

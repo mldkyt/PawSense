@@ -1,4 +1,4 @@
-﻿namespace CatLikeBehaviourDetected
+﻿namespace PawSense
 {
     partial class PawSense
     {
